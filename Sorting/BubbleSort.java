@@ -1,7 +1,7 @@
 public class BubbleSort{
     public static void main(String[] args)
     {
-        // Idea: to start from the first element and swap it with the next one, if it is greater than it, until the array gets sorted.
+        // Idea: to start from the first element and swap it with the next one, if it is greater than it.
 
         int[] arr={1,4,2,6,3,5};
 
